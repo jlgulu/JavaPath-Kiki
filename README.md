@@ -7,7 +7,7 @@ Java学习路线、Java视频教程、Java+B站视频整合、Java面试题、Ja
 
 **话不多先把学习路线图放上去：**
 
-![image-20220721190534332](C:\Users\yh\AppData\Roaming\Typora\typora-user-images\image-20220721190534332.png)
+http://assets.processon.com/chart_im![](http://assets.processon.com/chart_image/62d6da69e0b34d749dede62e.png?_=1658401747354)age/62d6da69e0b34d749dede62e.png?_=1658401747354
 
 ### 第一阶段：Java基础知识
 
