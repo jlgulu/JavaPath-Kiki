@@ -41,19 +41,19 @@ Java知识点汇总：[Java知识点汇总 - 知乎 (zhihu.com)](https://zhuanla
 
 ##### 书籍推荐
 
-**《Java核心技术》（第11版）**
+##### 《Java核心技术 第11版 套装共2册》（纸质书地址：https://item.jd.com/12800420.html）
 
 ![Java核心技术第11版基础知识+高级特性套装 套装共2册 Core Java第11版，与Java编程思想、EffectiveJava、深入理解Java虚拟机合称Java四大名著。卷I介绍Java语言基础知识的专业级详解；卷II介绍软件开发需要了解的高级主题](http://img3m0.ddimg.cn/27/33/29001780-1_w_9.jpg)
 
 卷一讲基础，卷二为进阶。全书对于Java语言的核心概念、语法、重要特性和开发方法讲解地非常细致，可以说是一部有关Java的百科全书。
 
-**《Java编程思想》(第 4 版)**
+**《Java编程思想》（纸质书地址：https://item.jd.com/10058164.html）**
 
 ![Java编程思想 第4版 计算机程序设计think in java电脑软件开发技术 java语言java编程程序员技术计算机程序设计从入门到精通 ](http://img3m4.ddimg.cn/72/33/11026589184-1_w_1.jpg)
 
 Java领域的经典书籍，从Java编程的基础知识点开始讲起，慢慢深入，一直到Java的高级特性。作者用了大量通俗易懂的代码对理论进行佐证，让读者在实际操作中可以深入理解操作符、枚举类型、接口等相关知识。
 
-**《head first Java》（第2版）**
+**《head first Java》（纸质书地址：https://item.jd.com/10100190.html）**
 
 ![Head First Java（中文版）（JAVA经典畅销书 生动有趣 轻松学好JAVA） 10年畅销经典，累计印刷30多次，畅销近30万册，计算机图书十大好书之一。](http://img3m9.ddimg.cn/56/36/9265169-1_w_5.jpg)
 
@@ -61,7 +61,7 @@ Java领域的经典书籍，从Java编程的基础知识点开始讲起，慢慢
 
 
 
-### 第二阶段：数据库
+### 第二阶段：MySQL数据库
 
 基本的增删改查，SQL 命令，索引、存储过程，JDBC。
 
@@ -109,19 +109,19 @@ MySQL知识点汇总：[MySQL知识点总结 - 知乎 (zhihu.com)](https://zhuan
 
 ##### 书籍推荐
 
-**《SQL基础教程 第2版》**
+**《SQL基础教程 第2版》（纸质书地址：https://item.jd.com/13667806.html）****
 
 ![img](https://picx.zhimg.com/80/v2-64a7686958cd626318c60c55410a86b1_720w.jpeg?source=d16d100b)
 
 本书是畅销书《SQL基础教程》第2版，介绍了关系数据库以及用来操作关系数据库的SQL语言的使用方法。书中通过丰富的图示、大量示例程序和详实的操作步骤说明，让读者循序渐进地掌握SQL的基础知识和使用技巧，切实提高编程能力。
 
-**《MySQL必知必会》**
+**《MySQL必知必会》（纸质书地址：https://item.jd.com/12818982.html）**
 
 ![img](https://pica.zhimg.com/80/v2-e6bc62e7baf86375ac6675ecee0e68fd_720w.jpeg?source=d16d100b)
 
-MySQL是世界上最受欢迎的数据库管理系统之一。书中从介绍简单的数据检索开始，逐步深入一些复杂的内容，包括联结的使用、子查询、正则表达式和基于全文本的搜索、存储过程、游标、[触发器](https://www.zhihu.com/search?q=触发器&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A650771113})、表约束，等等。
+MySQL是世界上最受欢迎的数据库管理系统之一。书中从介绍简单的数据检索开始，逐步深入一些复杂的内容，包括联结的使用、子查询、正则表达式和基于全文本的搜索、存储过程、游标、触发器、表约束，等等。
 
-**《MySQL核心技术手册 第2版 [美\]戴尔 李冬梅》**
+**《MySQL核心技术手册 第2版 美\]戴尔 李冬梅》（纸质书地址：(https://item.jd.com/10049065773693.html）**
 
 ![img](https://pic2.zhimg.com/80/v2-6bbec2b06f8e920a79240716a526bd62_720w.png?source=d16d100b)
 
@@ -155,19 +155,19 @@ JavaWeb基础第二季：[JavaWeb第二季进阶 - SiKi学院 - 生命不息，�
 
 ##### 书籍推荐
 
-**《JavaScript高级程序设计》**
+**《JavaScript高级程序设计》(纸质书地址：https://item.jd.com/12958580.html)**
 
 ![ JavaScript高级程序设计 第4版](http://img3m7.ddimg.cn/64/26/29120617-1_b_10.jpg)
 
 一本非常完整的经典入门书籍，被誉为JavaScript圣经之一，详解的非常详细，最新版第三版已经发布了，建议购买。
 
-**《JavaScript权威指南》**
+**《JavaScript权威指南》（纸质书地址：https://item.jd.com/10974436.html）**
 
 ![JavaScript权威指南 第六版 javascript犀牛书 JavaScript高级程序设计配套前端开发程序设计教程web开发HTML网站实战工具书籍 ](http://img3m5.ddimg.cn/13/7/11181628075-1_w_1.jpg)
 
 是一本很好的工具书，本书是程序员学习核心JavaScript语言和由Web浏览器定义的JavaScript API的指南和综合参考手册。
 
-**JavaScript Patterns**
+**《JavaScript Patterns》（纸质书地址：(https://item.jd.com/11044070.html）**
 
 ![【预订】JavaScript Patterns: Build Better Applications with Coding and Design Patterns 预订商品，按需印刷，需要1-3个月发货，非质量问题不接受退换货。](http://img3m9.ddimg.cn/95/7/27409829-1_w_1.jpg)
 
@@ -189,7 +189,7 @@ MVC菜鸟教程：[MVC 模式 | 菜鸟教程 (runoob.com)](https://www.runoob.co
 
 JQuery菜鸟教程：[jQuery 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/jquery/jquery-tutorial.html)
 
-AJAX:[jQuery 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/jquery/jquery-tutorial.html)
+AJAX基础教程:[jQuery 教程 | 菜鸟教程 (runoob.com)](https://www.runoob.com/jquery/jquery-tutorial.html)
 
 ##### 相关文档
 
@@ -201,19 +201,19 @@ JavaWeb【IDEA版本】：[老杨Javaweb视频教程-Javaweb从入门到精通�
 
 JavaWeb【Eclipse经典版】：[JavaWeb教程-JavaWeb从入门到精通（Javaweb基础/Servlet/JSP/Session/Cookie/监听器/过滤器/文件上传和下载）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18z411i7gh)
 
-AJAX：[Ajax入门到精通全套完整版(ajax王妈妈版本)Web前端Ajax初学者零基础学习必备_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15k4y167XM)
+AJAX入门到精通：[Ajax入门到精通全套完整版(ajax王妈妈版本)Web前端Ajax初学者零基础学习必备_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV15k4y167XM)
 
-jQuery：[jQuery入门到精通全套完整版-Web前端jQuery初学者零基础学习必备_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Jg4y1B7n4)
+jQuery入门到精通：[jQuery入门到精通全套完整版-Web前端jQuery初学者零基础学习必备_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Jg4y1B7n4)
 
 ##### 书籍推荐
 
-**《Tomcat与Java Web开发技术详解》**
+**《Tomcat与Java Web开发技术详解》（纸质书地址：https://item.jd.com/12553807.html）**
 
 ![ Tomcat与Java Web开发技术详解（第2版）(含光盘1张)](http://img3m3.ddimg.cn/55/17/20420983-1_b_2.jpg)
 
 作者根据多年的Java Web开发经验，详细阐明了在最新的Tomcat 5.x版本上开发Java Web应用涉及的各种技术，并且介绍了如何将Tomcat和其他主流HTTP服务器集成并创建具有实用价值的企业Java Web应用的方案。
 
-**《深入分析Java Web技术内幕》**
+**《深入分析Java Web技术内幕》（纸质书地址：https://item.jd.com/11520670.html）**
 
 ![深入分析Java Web技术内幕（修订版） 阿里巴巴集团技术丛书。技术大牛范禹、玉伯、毕玄联合力荐！大型互联网公司开发应用实践！](http://img3m3.ddimg.cn/1/12/23538043-1_w_2.jpg)
 
@@ -255,19 +255,19 @@ SSM框架：https://www.bilibili.com/video/BV1mE411X7yp?from=search&seid=1212279
 
 ##### 书籍推荐
 
-《**Spring源码深度解析**》
+**《Spring源码深度解析》（纸质书地址：https://item.jd.com/12506664.html）**
 
 ![ Spring源码深度解析 第2版](http://img3m4.ddimg.cn/27/16/26436294-1_b_1.jpg)
 
 Spring源码深度解析（第2版）》语言简洁，示例丰富，可帮助读者迅速掌握使用Spring进行开发所需的各种技能。
 
-《**Spring MVC学习指南**》
+**《Spring MVC学习指南》（纸质书地址：https://item.jd.com/12186368.html）**
 
-![Spring MVC学习指南 第2版 Spring MVC的轻松入门学习指南  Spring MVC的入门畅销书新版](http://img3m4.ddimg.cn/97/19/25072144-1_w_3.jpg)
+![ Spring MVC学习指南 第2版](http://img3m4.ddimg.cn/97/19/25072144-1_b_3.jpg)
 
 《Spring MVC教程》，内容细致、讲解清晰、非常适合Web开发者和想要使用SpringMVC开发·基于·Java的Web应用的读者阅读。
 
-**《互联网轻量级 SSM 框架解密：Spring、Spring MVC、MyBatis 源码深度剖析》**
+**《互联网轻量级 SSM 框架解密：Spring、Spring MVC、MyBatis 源码深度剖析》（纸质书地址：https://item.jd.com/12534456.html）**
 
 ![互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析 Java EE互联网轻量级SSM框架（Spring MVC+Spring+MyBatis）源码新鲜解密，深入分布式缓存、重新定义Spring Cloud、程序员的成长课、深入理解Spring Clou](http://img3m4.ddimg.cn/0/4/26492004-1_w_6.jpg)
 
@@ -351,7 +351,7 @@ SSM是Spring、SpringMVC和MyBatis框架的组合，是目前Java领域使用非
 
 ##### 书籍推荐
 
-##### 《**剑指Offer：名企面试官精讲典型编程题（第2版）**》
+##### **《剑指Offer：名企面试官精讲典型编程题（第2版）》（纸质书地址：https://item.jd.com/12163054.html）**
 
 ![剑指Offer：名企面试官精讲典型编程题（第2版） 继英文版登陆全球市场后又迎来重大升级 加大题量+更新题目+优化解法+融合中外 第二版重磅升级](http://img3m4.ddimg.cn/0/28/24242724-1_w_6.jpg)
 
@@ -365,7 +365,7 @@ SSM是Spring、SpringMVC和MyBatis框架的组合，是目前Java领域使用非
 
 ##### 视频推荐
 
-Dubbo:https://www.bilibili.com/video/BV1NY4y1J7LB?spm_id_from=333.337.search-card.all.click&vd_source=85bec15fd26c5d6402e4fa93b2553838
+Dubbo精通视频:https://www.bilibili.com/video/BV1NY4y1J7LB?spm_id_from=333.337.search-card.all.click&vd_source=85bec15fd26c5d6402e4fa93b2553838
 
 ZooKeeper 分布式协调服务技术+Dubbo高性能的 RPC 服务发布和调用框架：[黑马程序员Dubbo快速入门，Java分布式框架必会的dubbo教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/av74933720?spm_id_from=333.788.b_636f6d6d656e74.31)
 
@@ -379,6 +379,6 @@ Mycat核心教程：https://www.bilibili.com/video/BV1WJ411x7bD?spm_id_from=333.
 
 
 
-### 总结
+### 经验小结
 
 Java在学习中一定要坚持，要保持长时间学习。 一定要动手，不管例子多么简单，建议至少自己动手敲一遍。一定要思考和总结。通过上面的学习路线图希望可以帮助小伙伴们学到更多的知识。
