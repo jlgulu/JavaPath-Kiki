@@ -137,11 +137,11 @@ HTML、CSS、JS
 
 ##### 基础教程
 
-HTML教程：https://www.runoob.com/html/html-basic.html
+HTML菜鸟教程：https://www.runoob.com/html/html-basic.html
 
-CSS教程：https://www.runoob.com/css/css-tutorial.html
+CSS菜鸟教程：https://www.runoob.com/css/css-tutorial.html
 
-JS教程：https://www.runoob.com/js/js-tutorial.html
+JS菜鸟教程：https://www.runoob.com/js/js-tutorial.html
 
 ##### 相关文档
 
@@ -243,15 +243,15 @@ Java框架技术：[(18 条消息) Java技术框架太多不知道怎么学，�
 
 ##### 视频推荐
 
-Spring：[https:https%3A//www.sikiedu.com/course/267](https:https%3A//www.sikiedu.com/course/267)
-
-SpringMVC：[https://www.sikiedu.com/course/277](https://www.sikiedu.com/course/277)
-
-Springboot：[https://www.sikiedu.com/course/541](https://www.sikiedu.com/course/541)
-
-Mybatis：[https://www.sikiedu.com/course/258](https://www.sikiedu.com/course/258)
-
 SSM框架：https://www.bilibili.com/video/BV1mE411X7yp?from=search&seid=12122799026209681120
+
+SSM框架第一季 - Mybatis入门：[https://www.sikiedu.com/course/258](https://www.sikiedu.com/course/258)
+
+SSM框架第二季 - Spring入门：[https://www.sikiedu.com/course/267](https:https%3A//www.sikiedu.com/course/267)
+
+SSM框架完结篇 SpringMVC与Steam前后台功能模块开发：[https://www.sikiedu.com/course/277](https://www.sikiedu.com/course/277)
+
+SpringBoot整合SSM框架：[https://www.sikiedu.com/course/541](https://www.sikiedu.com/course/541)
 
 ##### 书籍推荐
 
